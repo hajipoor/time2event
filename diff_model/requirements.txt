@@ -1,0 +1,4 @@
+python==3.8.5
+keras-gpu==2.4.3
+tensorflow-gpu=2.2.0
+numpy==1.19.1
