@@ -1,6 +1,5 @@
 # time2event
-Source code for Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event. Nazanin Dehghani, Hassan Hajipoor, Hadi Amiri. ACL 2021.
-
+Source code for Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event.
 
 If you make use of this code or this model in your work, please cite the following paper:
 
